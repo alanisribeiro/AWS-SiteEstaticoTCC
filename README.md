@@ -36,7 +36,7 @@ Rodolfo dos Santos Silva<br>
 
 
 **CUSTO**<br>
-Mental - 6,20 USD<br>
+Mensal - 6,20 USD<br>
 Custo total por 12 meses - 74,40 USD.
 
 
