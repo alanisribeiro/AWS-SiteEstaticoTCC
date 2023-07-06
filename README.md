@@ -23,7 +23,6 @@ Rodolfo dos Santos Silva<br>
 ![2023-07-05](https://github.com/alanisribeiro/AWS-SiteEstaticoTCC/assets/126534588/f736358a-6477-43fe-946d-dca7b5908447)<br>
 <br>
 **CUSTO**<br>
-<br>
 Mental - 6,20 USD<br>
 Custo total por 12 meses - 74,40 USD.
 
