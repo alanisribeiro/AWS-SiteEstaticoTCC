@@ -22,6 +22,17 @@ Rodolfo dos Santos Silva<br>
 <br>
 ![2023-07-05](https://github.com/alanisribeiro/AWS-SiteEstaticoTCC/assets/126534588/f736358a-6477-43fe-946d-dca7b5908447)<br>
 <br>
+**EXPLICANDO A ARQUITETURA**<br>
+**1.** O usuário faz uma solicitação para acessar o site estático<br>
+**2.** O CloudFront recebe a solicitação do usuário e verificar se o conteúdo está disponível no ponto de acesso mais próximo<br>
+(Se não estiver disponível o Cloudfront vai até o S3, busca os arquivos e devolve para o usuário final)<br>
+**3.** Se o conteúdo estiver em cache no ponto de acesso mais próximo do usuário, o CloudFront o entrega e dá uma resposta de baixa latência<br>
+**4.** O S3 entrega o arquivo solicitado pelo CloudFront<br>
+**5.** O CloudFront armazena o arquivo em cache no ponto de presença<br>
+**6.** O CloudFront entrega o arquivo solicitado pelo usuário, fornecendo uma resposta rápida e de baixa latência<br>
+**7.** E o usuário recebe o recurso solicitado e consegue visualizar o site estático
+
+
 **CUSTO**<br>
 Mental - 6,20 USD<br>
 Custo total por 12 meses - 74,40 USD.
