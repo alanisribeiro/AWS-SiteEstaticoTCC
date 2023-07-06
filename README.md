@@ -9,4 +9,16 @@ Akyssa Eduarda<br>
 Alinyy Ribeiro<br>
 Darwin Giovanni<br>
 Diogo da Silva<br>
+<br>
+**Mentor**<br>
+Rodolfo dos Santos Silva<br>
+<br>
+**SERVIÇOS UTILIZADOS**<br>
+**Amazon S3** (Armazenamento escalável, duradouro e seguro) – Armazena os arquivos HTML, CSS, Javascript e Imagens; escalabilidade; integração com Cloudfront e durabilidade dos objetos armazenados.<br>
+<br>
+**Amazon CloudFront** (Entrega de conteúdo por meio de uma rede global de servidores) – Melhora o desempenho e escalabilidade do site; melhora a velocidade de entrega e fornece recursos de segurança.<br>
+<br>
+**ARQUITETURA DO PROJETO**
+
+
 
